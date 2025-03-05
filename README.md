@@ -57,7 +57,7 @@ Play until the deck is exhausted.
 📂 Game of War
 ├── 📄 index.html  # Main HTML file
 ├── 📄 index.js    # JavaScript logic
-├── 📄 index.css   # Stylesheet (linked but not provided in uploaded files)
+├── 📄 index.css   # Stylesheet
 ├── 📄 package.json  # Project dependencies and scripts
 
 ## Dependencies
